@@ -1,7 +1,11 @@
 Oak
 Pine
 Apple
+<<<<<<< HEAD
 Cherry
 Grapes
 Almond
 Lemon
+=======
+Cherry
+>>>>>>> parent of 35f839c... line 3 added to trees
