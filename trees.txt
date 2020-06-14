@@ -3,3 +3,5 @@ Pine
 Apple
 Cherry
 Grapes
+Almond
+Lemon
